@@ -1,0 +1,1 @@
+Bu kod, her biri `coder` adlı fonksiyonu farklı bir numarayla çalıştıran 5 adet thread (iş parçacığı) oluşturur ve başlatır. Her thread çalıştığında, kendisine verilen numarayı ekrana "Coder ID" olarak yazdırır.
